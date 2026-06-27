@@ -14,7 +14,7 @@ Frontend:
 https://spacex-frontend-chi.vercel.app/
 
 Backend:
-https://your-render-backend-url.onrender.com/
+https://spacex-backend-g576.onrender.com
 
 ---
 
